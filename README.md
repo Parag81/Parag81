@@ -1,5 +1,38 @@
-### Hi there 👋
 
+<h1 align="center">Hello There 🤙,I am Parag Khare </h1>
+
+<h3 align="center"> Programmer </h3>
+
+
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
+
+<p align="center"> Hi, I am Parag Khare . I am currently learning JavaScript and making new projects. </p>
+
+<h3> Skills: Python, C++, JavaScript, Java, HTML, CSS, Django</h3>
+
+<h3> College: Takshshila Institute of Engineering and Technology </h3> <br />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parag81&label=Profile%20views&color=0e75b6&style=flat" alt="parag81"> </p>
+
+<h2 align="left"> What I am Doing? </h2>
+
+<h3>🚧 I’m currently working on To-do list using JavaScript</h3>
+
+<h3>📑 I'm Currently Learning JavaScript</h3>
+
+
+<h2 align="center">Connect Me In</h2>
+
+<a href="" target="black" alt=https://www.linkedin.com/in/parag-khare-573ab0206/> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a>
+
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=parag81" alt="parag81"> </p>
+
+<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=parag81&" alt="parag81" > </p>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parag81&show_icons=true&locale=en&layout=compact" alt="parag81" > </p>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=parag81&show_icons=true&locale=en" alt="parag81" ></p>
 <!--
 **Parag81/Parag81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
