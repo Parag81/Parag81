@@ -24,7 +24,7 @@
 
 <h2 align="center">Connect Me In</h2>
 
-<a href="" target="black" alt=https://www.linkedin.com/in/parag-khare-573ab0206/> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a>
+<a href="https://www.linkedin.com/in/parag-khare-573ab0206/" target="black" alt=https://www.linkedin.com/in/parag-khare-573ab0206/> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=parag81" alt="parag81"> </p>
 
