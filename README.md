@@ -17,7 +17,7 @@
 
 <h2 align="left"> What I am Doing? </h2>
 
-<h3>🚧 I’m currently working on Projects using JavaScript</h3>
+<h3>🚧 I’m currently solving problems of DSA</h3>
 
 <h3>📑 I'm Currently Learning JavaScript</h3>
 
