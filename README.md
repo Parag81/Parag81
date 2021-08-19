@@ -19,7 +19,6 @@
 
 <h3>🚧 I’m currently solving problems of DSA</h3>
 
-<h3>📑 I'm Currently Learning JavaScript</h3>
 
 
 <h2 align="center">Connect Me In</h2>
