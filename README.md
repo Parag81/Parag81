@@ -9,7 +9,7 @@
 
 <p align="center"> Hi, I am Parag Khare . I am currently solving DSA questions. </p>
 
-<h3> Skills: Python, C++, JavaScript, Java, HTML, CSS, Django</h3>
+<h3> Skills: Python, C++, JavaScript, Java, HTML, CSS</h3>
 
 <h3> College: Takshshila Institute of Engineering and Technology </h3> <br />
 
@@ -17,7 +17,7 @@
 
 <h2 align="left"> What I am Doing? </h2>
 
-<h3>🚧 I’m currently solving problems of DSA</h3>
+<h3>🚧 I’m currently solving problems of DSA.</h3>
 
 
 
