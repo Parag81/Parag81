@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello There 🤙,I am Parag Khare </h1>
+<h1 align="center">Hello There 🤙, I am Parag Khare </h1>
 
 <h3 align="center"> Programmer, Coder </h3>
 
@@ -7,7 +7,7 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 
-<p align="center"> Hi, I am Parag Khare . I am currently solving DSA questions. </p>
+<p align="center"> Hi, I am Parag Khare . I am a Student. I am currently solving DSA questions. </p>
 
 <h3> Skills: Python, C++, JavaScript, Java, HTML, CSS</h3>
 
