@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello There 🤙, I am Parag Khare </h1>
 
-<h3 align="center"> Programmer, Coder </h3>
+<h3 align="center"> Programmer, Coder, Learner </h3>
 
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
