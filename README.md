@@ -7,7 +7,7 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 
-<p align="center"> Hi, I am Parag Khare . I am a Student. I am currently solving DSA questions. </p>
+<p align="center"> Hi, I am Parag Khare . I am a Student. I am currently practising DSA. </p>
 
 <h3> Skills: Python, C++, JavaScript, Java, HTML, CSS</h3>
 
